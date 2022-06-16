@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AbdalrahmanAfifi
+- 👋 Hi, I’m Abdalrahman G. Afifi
 - 👀 I’m interested in programming and cybersecurity.
 - 🌱 I’m currently learning new programming languages and network security.
 - 💞️ I’m looking to collaborate on projects outside college to add it in my resume.
